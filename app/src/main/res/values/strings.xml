@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Price Checker</string>
+    <string name="price_checker">Price Checker</string>
+    <string name="product_price">Product Price:</string>
+    <string name="product_name">Product Name:</string>
+    <string name="type_barcode">Type barcode</string>
+</resources>
